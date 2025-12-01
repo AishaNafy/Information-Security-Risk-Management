@@ -65,7 +65,7 @@ The assessment leverages the **OCTAVE Allegro framework**, a structured methodol
 
 ## Access Full Report
 You can view or download the complete risk assessment report here:  
-[Information-Security-Risk-Management.pdf](./Information-Security-Risk-Management.pdf)
+[Information-Security-Risk-Management.pdf](https://drive.google.com/file/d/1yGb0ZoTZX65QzAcuZnIZIUlH0p8fhEII/view)
 
 ---
 
