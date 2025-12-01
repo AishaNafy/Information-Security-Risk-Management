@@ -69,7 +69,7 @@ You can view or download the complete risk assessment report here:
 
 ---
 
-### GitHub Badges (Optional)
+### Badges 
 
 ![License](https://img.shields.io/badge/license-Academic-blue)
 ![Language](https://img.shields.io/badge/language-Documentation-orange)
